@@ -17,7 +17,7 @@ Jekyll on the other hand had a very easy way to create a blog using only a singl
 
 #include <stdio.h>
 
-int main() {
+int main(int argc, char **argv) {
 	printf("Hello Blog!\n");
 	return 0;
 }
